@@ -1,0 +1,17 @@
+
+#result-label{
+    -fx-background-color:rgb(240, 85, 85);
+    -fx-text-fill:white;
+}
+#calc-btn{
+    -fx-border-radius:50;
+  
+}
+#operator-Label{
+    -fx-background-color:rgb(240, 85, 85);
+    -fx-text-fill:white;
+}
+#developer-label{
+    -fx-background-color:rgb(24, 20, 20);
+    -fx-text-fill:white;
+}
